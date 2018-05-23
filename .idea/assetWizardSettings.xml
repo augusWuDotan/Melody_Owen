@@ -16,9 +16,24 @@
                             <entry key="launcher">
                               <value>
                                 <PersistentState>
+                                  <option name="children">
+                                    <map>
+                                      <entry key="foregroundImage">
+                                        <value>
+                                          <PersistentState>
+                                            <option name="values">
+                                              <map>
+                                                <entry key="scalingPercent" value="95" />
+                                              </map>
+                                            </option>
+                                          </PersistentState>
+                                        </value>
+                                      </entry>
+                                    </map>
+                                  </option>
                                   <option name="values">
                                     <map>
-                                      <entry key="foregroundImage" value="$PROJECT_DIR$/../../icon/APP教師版_Android_icon512.png" />
+                                      <entry key="foregroundImage" value="$PROJECT_DIR$/../../icon/歐文ICON/歐文-教師版/Android/歐文-教師_Android_512.png" />
                                       <entry key="webIconShape" value="NONE" />
                                     </map>
                                   </option>
@@ -33,7 +48,7 @@
                                       <entry key="assetType" value="IMAGE" />
                                       <entry key="cropped" value="true" />
                                       <entry key="iconShape" value="NONE" />
-                                      <entry key="imageAsset" value="$PROJECT_DIR$/../../icon/APP教師版_Android_icon512.png" />
+                                      <entry key="imageAsset" value="$PROJECT_DIR$/../../icon/歐文ICON/歐文-教師版/Android/歐文-教師_Android_512.png" />
                                     </map>
                                   </option>
                                 </PersistentState>

@@ -3,7 +3,6 @@ android {
     signingConfigs {
         debug {
         }
-
         cn {
             keyAlias 'Owen_cn'
             keyPassword '770331'
@@ -18,10 +17,10 @@ android {
         minSdkVersion 16
         targetSdkVersion 26
 //        台灣 googleplay 1 , 1.0.0
-//        大陸 百度 1 , 1.0.0
+//        大陸 百度 3 , 1.0.2
 
-        versionCode 2
-        versionName "1.0.1"
+        versionCode 3
+        versionName "1.0.2"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
         signingConfig signingConfigs.debug
         manifestPlaceholders = [HOCKEYAPP_APP_ID: "372bfb60e6764707a44648a70d25fd6a", HOCKEYAPP_APP_SECRET: "85c34e42f1e33077dcb63c9f824086e4"]
